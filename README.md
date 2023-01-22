@@ -22,7 +22,7 @@ points from the project:
 (a) The game board has to be presented in a aestethic and ergonomic way. The upper space of the window
 should contain the name, surname and index number of the author.
 (b) Displaying the elapsed time and score during gameplay. Both values are reset when the new game is
-started.
+started
 (c) The basic functionality of the game: the movement, the road form (with collisions). The movement is
 immediate – responding to the events.
 (d) Supporting esc and n controls according to the Section 2.1.
